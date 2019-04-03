@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("fuck everything");
+    printf("yeah hi");
     
 return 0;
 }

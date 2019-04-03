@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("yeah hi");
+    printf("yeah h
+    ofrti");
     
 return 0;
 }
